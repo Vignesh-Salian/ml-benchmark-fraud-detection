@@ -1,0 +1,22 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Cache files
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data (Assuming creditcard.csv is very large, usually ignored)
+data/*.csv
+
+models/*.pkl
