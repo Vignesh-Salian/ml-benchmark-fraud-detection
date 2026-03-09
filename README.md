@@ -28,7 +28,7 @@ This project demonstrates a comprehensive machine learning pipeline for detectin
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR-GITHUB-REPO-URL>
+   git clone https://github.com/Vignesh-Salian/ml-benchmark-fraud-detection.git
    cd ml-benchmark-fraud-detection
    ```
 
