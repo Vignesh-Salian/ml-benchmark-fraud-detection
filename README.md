@@ -70,5 +70,27 @@ This project demonstrates a comprehensive machine learning pipeline for detectin
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Author
-**Vignesh Salian**
+## 👨‍💻 Author
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Vignesh-Salian">
+        <img src="https://img.shields.io/badge/Vignesh%20Salian-Developer-blue?style=for-the-badge&logo=github" alt="Vignesh Salian"/>
+      </a>
+      <br/>
+      <a href="https://github.com/Vignesh-Salian">
+        <img src="https://img.shields.io/github/followers/Vignesh-Salian?label=Follow&style=social" alt="GitHub Followers"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
