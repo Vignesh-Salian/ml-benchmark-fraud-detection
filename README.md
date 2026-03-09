@@ -12,6 +12,11 @@ This project demonstrates a comprehensive machine learning pipeline for detectin
 
 ## Evaluation Metrics & Visualizations
 
+### Application Dashboard
+| Model Comparison Page | Fraud Prediction Page |
+|---|---|
+| ![Model Comparison](images/model_comparison_dashboard.png) | ![Fraud Prediction](images/fraud_prediction_dashboard.png) |
+
 ### Fraud vs Normal Transactions
 ![Fraud vs Normal Transactions](images/fraud_vs_normal.png)
 
