@@ -19,4 +19,4 @@ Thumbs.db
 # Data (Assuming creditcard.csv is very large, usually ignored)
 data/*.csv
 
-models/*.pkl
+# models/*.pkl # Commented out so that models can be pushed for deployment
